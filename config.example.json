@@ -1,0 +1,9 @@
+{
+  "username": "your_blink_email@example.com",
+  "password": "your_blink_password",
+  "download_path": "./videos",
+  "check_interval_seconds": 300,
+  "archive_db_path": "./archive_db.json",
+  "log_file": "./blink_archiver.log",
+  "log_level": "INFO"
+}
