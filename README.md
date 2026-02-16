@@ -2,6 +2,8 @@
 
 Automatically download and archive video clips from your Blink home security cameras to protect against tampering or cloud deletion. This tool runs at regular intervals and saves all new videos to your local storage.
 
+**[Download PDF Documentation](Blink_Camera_Archiver_Documentation.pdf)** - Complete guide with setup instructions, troubleshooting, and more.
+
 ## Features
 
 - Automatic video archiving from all Blink cameras
